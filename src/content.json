@@ -1,0 +1,4 @@
+{
+    "modes":[{"name":"words","choices":[15,25,50,70]},{"name":"time","choices":[15,30,45,60]}],
+    
+}
